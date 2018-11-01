@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Guessing Game App",
+    "description": "Created a Game Show App with vanilla JavaScript using arrays, functions, loops, conditionals, and events. This guessing game app works best on tablets and larger.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "image": "../img/game-show-app-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-game-show-app",
+    "url": "https://kristyburge.github.io/techdegree-game-show-app/"
+  },
+  {
+    "id": 2,
+    "name": "Employee Directory",
+    "description": "Built the front end of an employee directory from scratch and update the dynamic data through a public API. The employee directory features 12 employees (which update each time the app is displayed) and when an employee's card is clicked on, a modal window appears displaying more information about that employee. This project uses JavaScript, jQuery, and JSON objects through the Random User Generator API.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "API", "JSON"],
+    "image": "../img/employee-directory-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-employee-directory",
+    "url": "https://kristyburge.github.io/techdegree-employee-directory/"
+  },
+  {
+    "id": 3,
+    "name": "Interactive Photo Gallery",
+    "description": "Built an interactive photo gallery using JavaScript to search and Lightbox plugin for the images. Users search the responsive photo gallery by typing the search box and results are found based on the caption in the photo.",
+    "skills": ["HTML5", "CSS3", "JavaScript", "jQuery"],
+    "image": "../img/interactive-photo-gallery-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-interactive-photo-gallery",
+    "url": "https://kristyburge.github.io/techdegree-interactive-photo-gallery/"
+  },
+  {
+    "id": 4,
+    "name": "Interactive Video Player",
+    "description": "Built an HTML5 video player using JavaScript and the HTML5 Video API to synchronize a video transcript to the video player.",
+    "skills": ["HTML5", "CSS3", "SASS", "MediaElementJS", "JavaScript", "API"],
+    "image": "../img/interactive-video-player-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-interactive-video-player",
+    "url": "https://kristyburge.github.io/techdegree-interactive-video-player/"
+  },
+  {
+    "id": 5,
+    "name": "Web App Dashboard",
+    "description": "Built the front end of an interactive dashboard for a web application from scratch using advanced web techniques including SVG graphics and JavaScript programming. Implemented JavaScript-driven charts and graphics using the Chart.js library. Users can save settings to local storage.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "image": "../img/web-app-dashboard-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-web-app-dashboard",
+    "url": "https://kristyburge.github.io/techdegree-web-app-dashboard/"
+  },
+  {
+    "id": 6,
+    "name": "Online Registration Form",
+    "description": "Built a responsive, mobile-friendly HTML5 form and style with CSS3 using a mobile-first approach to get more subscribers to The Code Review newsletter.",
+    "skills": ["HTML5", "CSS3", "Responsive Design"],
+    "image": "../img/online-registration-form-kristyburge.png",
+    "github": "https://github.com/kristyburge/techdegree-registration-form",
+    "url": "https://kristyburge.github.io/techdegree-registration-form/"
+  }
+]
